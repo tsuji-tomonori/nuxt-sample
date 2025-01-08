@@ -12,8 +12,8 @@
         // HTML
         "formulahendry.auto-rename-tag",
         "formulahendry.auto-close-tag",
-        "HookyQR.beautify",
         // vue
+        "vue.volar",
         "octref.vetur",
         "dariofuzinato.vue-peek",
         // UI/UX
