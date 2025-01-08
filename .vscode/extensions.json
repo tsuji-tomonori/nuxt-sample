@@ -1,0 +1,30 @@
+{
+    "recommendations": [
+        // JP
+        "MS-CEINTL.vscode-language-pack-ja",
+        // Docker
+        "ms-azuretools.vscode-docker",
+        // Git
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "vivaxy.vscode-conventional-commits",
+        // HTML
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "HookyQR.beautify",
+        // vue
+        "octref.vetur",
+        "dariofuzinato.vue-peek",
+        // UI/UX
+        "oderwat.indent-rainbow",
+        "shardulm94.trailing-spaces",
+        "medo64.render-crlf",
+        "PKief.material-icon-theme",
+        "usernamehw.errorlens",
+        // Other
+        "alefragnani.Bookmarks",
+        "Gruntfuggly.todo-tree",
+        "mutantdino.resourcemonitor",
+    ]
+}
