@@ -64,10 +64,8 @@
     "workbench.list.smoothScrolling": true, // スムーズスクロール
     "workbench.view.alwaysShowHeaderActions": true, // ヘッダーアクションを常に表示
     "workbench.iconTheme": "material-icon-theme", // アイコンテーマ
-    // 拡張機能
-    // Java
+    // テスト設定
     "testing.showAllMessages": true, // テストの実行時成功してもメッセージを表示する
-    "java.autobuild.enabled": false, // 保存時にbuildしない
     "files.watcherExclude": {
         "**/.git/objects/**": true,
         "**/.git/subtree-cache/**": true,
@@ -104,8 +102,6 @@
             "glob": "*/dev"
         },
     ],
-    // Checkstyle
-    "java.checkstyle.version": "10.21.1",
     // AWS
     "aws.telemetry": false, // テレメトリを送信しない
     // カスタマイズ設定

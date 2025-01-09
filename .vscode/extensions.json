@@ -14,7 +14,6 @@
         "formulahendry.auto-close-tag",
         // vue
         "vue.volar",
-        "octref.vetur",
         "dariofuzinato.vue-peek",
         // UI/UX
         "oderwat.indent-rainbow",
